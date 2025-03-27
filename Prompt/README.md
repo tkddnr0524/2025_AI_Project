@@ -26,7 +26,13 @@ masterpiece, (1girl : 1.0), (flower : 1.0), (tree: 1.0), (sky: 1.7)
 
 ![image](https://github.com/tkddnr0524/2025_AI_Project/blob/main/Prompt/00006-1146737549.png?raw=true)
 
-##
+## prompt alternating
+
+>Prompt
+
+masterpiece, [Steampunk|Cyberpunk]
+
+![image](https://github.com/tkddnr0524/2025_AI_Project/blob/main/Prompt/00007-2868612341.png?raw=true)
 
 ## Blend two keywords 
 
